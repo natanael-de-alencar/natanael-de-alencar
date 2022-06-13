@@ -1,6 +1,6 @@
 - 👋 Hi! Olá! Welcome to my Github page!
 -  ⚛️ I’m interested in Python, Data Science, Molecular Modeling, Bioinformatics, Web Developer
-- 🎓 I’m currently learning  Python, Data Science, Java...
+- 🎓 I’m currently learning Python's libraries and frameworks, Data Science, Java...
 - 📫 How to reach me natanael-alencar@hotmail.com 
 
 <div align="center">
